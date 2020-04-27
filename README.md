@@ -5,6 +5,8 @@ Saving my CS:GO console settings here, so I don't need to update them manually e
 - 800dpi@1000hz
 - Disable Xbox Game Bar / DVR
 - Disable Focus Assist
+- Untick CPU 0 when setting up the affinity
+- Set a task to clear up RAM cache for every 3~5 minutes
 ## Launch Options
 ```-novid -high -freq 240 -tickrate 128 +cl_interp_ratio 1 +fps_max 300 +rate 786432```
 ### Crosshair
