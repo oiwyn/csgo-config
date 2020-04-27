@@ -1,4 +1,4 @@
-# 🔫 CS:GO Settings
+# CS:GO Settings
 ## 🖥️ Windows / Mouse
 - 6/11 on Windows (with pointer precision disabled)
 - 800dpi@1000hz
