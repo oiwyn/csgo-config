@@ -1,7 +1,9 @@
 # CS:GO Settings
-## Mouse
+## Windows / Mouse
 - 6/11 on Windows (with pointer precision disabled)
--  800dpi@1000hz
+- 800dpi@1000hz
+- Disable Xbox Game Bar / DVR
+- Disable Focus Assist
 ## Launch Options
 ```-novid -high -freq 240 -tickrate 128 +cl_interp_ratio 1 +fps_max 300 +rate 786432```
 ## Crosshair
