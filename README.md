@@ -33,3 +33,8 @@ joystick "0";
 joystick_force_disabled "1";
 joystick_force_disabled_set_from_options "1";
 ```
+## FACEIT AC
+This makes FACEIT AC low priority (shortcut)
+```
+C:\Windows\System32\cmd.exe /c start "" /Low "C:\Program Files\FACEIT AC\faceitclient.exe"
+```
