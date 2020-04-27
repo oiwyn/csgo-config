@@ -8,7 +8,7 @@ Saving my CS:GO console settings here, so I don't need to update them manually e
 - Untick CPU 0 when setting up the affinity
 - Set a task to clear up RAM cache for every 3~5 minutes
 ## Launch Options
-```-novid -high -freq 240 -tickrate 128 +cl_interp_ratio 1 +fps_max 300 +rate 786432```
+```-novid -console -high -freq 240 -tickrate 128 +cl_interp_ratio 1 +fps_max 300 +rate 786432```
 ### Crosshair
 ```cl_crosshairalpha 250; cl_crosshaircolor 4; cl_crosshaircolor_r 0; cl_crosshaircolor_g 255; cl_crosshaircolor_b 165; cl_crosshairdot 1; cl_crosshairgap -4; cl_crosshairsize 1; cl_crosshairstyle 4; cl_crosshairthickness 1; cl_crosshairusealpha 1;```
 ## Binds
