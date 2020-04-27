@@ -11,6 +11,7 @@ Saving my CS:GO console settings here, so I don't need to update them manually e
 ```cl_crosshairalpha 250; cl_crosshaircolor 4; cl_crosshaircolor_r 0; cl_crosshaircolor_g 255; cl_crosshaircolor_b 165; cl_crosshairdot 1; cl_crosshairgap -4; cl_crosshairsize 1; cl_crosshairstyle 4; cl_crosshairthickness 1; cl_crosshairusealpha 1;```
 ## Binds
 ```
+bind "=" "toggleconsole";
 bind "l" "demoui";
 bind "q" "slot8";
 bind "t" "slot7";
