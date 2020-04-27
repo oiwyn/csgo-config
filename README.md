@@ -1,4 +1,5 @@
 # CS:GO Settings
+Saving my CS:GO console settings here, so I don't need to update them manually every time I switch/refresh my PC.
 ## Windows / Mouse
 - 6/11 on Windows (with pointer precision disabled)
 - 800dpi@1000hz
