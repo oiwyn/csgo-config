@@ -25,8 +25,14 @@ bind "MOUSE5" "r_cleardecals";
 ```
 ## Other
 ```
+cl_autohelp "0";
+cl_disablefreezecam "1";
+cl_disablehtmlmotd "1";
+cl_showhelp "0";
+cl_freezecameffects_showholiday "0";
 sensitivity ".85";
 zoom_sensitivity_ratio_mouse ".9";
+mat_queue_mode "-1";
 m_rawinput "1";
 m_mouseaccel1 "0";
 m_mouseaccel2 "0";
@@ -34,6 +40,9 @@ m_mousespeed "0";
 joystick "0";
 joystick_force_disabled "1";
 joystick_force_disabled_set_from_options "1";
+gameinstructor_enable "0";
+r_drawtracers_firstperson "0";
+r_dynamic "0";
 ```
 ## FACEIT AC
 A shortcut, this makes FACEIT AC low priority:
