@@ -30,7 +30,7 @@ cl_disablefreezecam "1";
 cl_disablehtmlmotd "1";
 cl_showhelp "0";
 cl_freezecameffects_showholiday "0";
-sensitivity ".85";
+sensitivity ".9";
 zoom_sensitivity_ratio_mouse ".9";
 mat_queue_mode "-1";
 m_rawinput "1";
